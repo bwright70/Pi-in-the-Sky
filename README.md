@@ -1,2 +1,11 @@
-# Pi-in-the-Sky
-The CHS Engineering 4 Pi in the sky project 
+Hindenburg II 
+
+Balsa Wood Frame 
+
+Helium for tests
+
+Hydrogen for final 
+
+Fan on the back for steering 
+
+Fans on the side for up and down 
