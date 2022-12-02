@@ -4,6 +4,8 @@
 
 ### Diagrams/Images ###
 
+<img src="Images/End Goal.jpg" width="250" height="200" />
+
 ### Final Function ###
 
 ### Code Planning ###
