@@ -15,6 +15,7 @@
 * Balsa Wood Frame
 * Helium for tests
 * Hydrogen for final
+* Mylar Material 
 
 
 ### Knowledge Needed ###
