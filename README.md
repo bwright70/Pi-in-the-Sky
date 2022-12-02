@@ -6,6 +6,8 @@
 
 ### Final Function ###
 
+### Code Planning ###
+
 ### Materials Needed ###
 
 ### Knowledge Needed ###
