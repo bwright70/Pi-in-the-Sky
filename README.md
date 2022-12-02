@@ -6,6 +6,10 @@
 
 ![End-Goal](/Images/End-Goal.jpg)
 
+![Zeppelin-1](/Images/Zeppelin-1.png)
+
+![Zeppelin-2](/Images/Zeppelin-2.png)
+
 ### Final Function ###
 
 ### Code Planning ###
