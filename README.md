@@ -12,6 +12,11 @@
 
 ### Materials Needed ###
 
+* Balsa Wood Frame
+* Helium for tests
+* Hydrogen for final
+
+
 ### Knowledge Needed ###
 
 * Remote Control for Fans
