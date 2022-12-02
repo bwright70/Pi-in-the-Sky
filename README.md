@@ -31,3 +31,13 @@
 ### Measure of Success ###
 
 ### Safety Concerns and Measures ###
+
+### Cool Links ###
+
+* [GitHub Project](https://github.com/users/bwright70/projects/3/views/1)
+
+* [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y183NjVlMGIwODRhZmYwMWQ0NTk1NTc3YmI5MDZjMWQ5NDFhNjE2MzUxOGFiZTYzMDM4MWMxNWQwMjBiYjgxNDliQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+* [Google Docs Planning Document](https://docs.google.com/document/d/1Qct2rjEhtyD-eSzZsQ66V3ohhlDkUk79MRwbGKh-5P4/edit?usp=sharing)
+
+* [The Airship Simon](http://www.znuerb.com/Simon/construc.html)
