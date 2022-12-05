@@ -12,6 +12,8 @@
 
 ### Final Function ###
 
+To make a Neutrally boyant aircraft that we can remotely control indoors 
+
 ### Code Planning ###
 
 ### Materials Needed ###
