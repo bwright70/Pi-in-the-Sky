@@ -18,21 +18,21 @@ To make a neutrally buoyant aircraft that we can remotely control.
 
 ### Materials Needed ###
 
-* Balsa Wood Frame
+* Balsa wood (for frame)
 
-* Helium for tests
+* Helium (for testing gas)
 
-* Hydrogen for final
+* Hydrogen (for final gas)
 
-* Mylar Material
+* Mylar material (for frame)
 
 ### Knowledge Needed ###
 
-* Remote Control for Fans
+* Remote control for fans
 
-* Amount of Helium/Hydrogen Needed
+* Amount of Helium/Hydrogen needed
 
-* How to make a Zeppelin Frame and connectors
+* How to make a Zeppelin frame and connectors
 
 ### Measure of Success ###
 
@@ -40,7 +40,7 @@ To make a neutrally buoyant aircraft that we can remotely control.
 
 | Concern               | Countermeasure |
 | --------------------- | -------------- |
-| Gas inside of Balloon | ?              |
+| ?                     | ?              |
 
 ### Important Links ###
 
