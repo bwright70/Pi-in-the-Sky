@@ -12,7 +12,7 @@
 
 ### Final Function ###
 
-To make a Neutrally boyant aircraft that we can remotely control indoors 
+To make a neutrally buoyant aircraft that we can remotely control.
 
 ### Code Planning ###
 
