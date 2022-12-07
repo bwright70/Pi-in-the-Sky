@@ -14,6 +14,10 @@
 
 To make a neutrally buoyant aircraft that we can remotely control.
 
+### Measure of Success ###
+
+Getting a working zeppelin prototype, filled with helium, that can stay in the air and collect data.
+
 ### Code Planning ###
 
 ### Materials Needed ###
@@ -34,13 +38,15 @@ To make a neutrally buoyant aircraft that we can remotely control.
 
 * How to make a Zeppelin frame and connectors
 
-### Measure of Success ###
-
 ### Safety Concerns and Measures ###
 
-| Concern               | Countermeasure |
-| --------------------- | -------------- |
-| ?                     | ?              |
+| Concern                    | Countermeasure                     |
+| -------------------------- | ---------------------------------- |
+| Balloon popping            | Wearing proper eye protection      |
+| Hydrogen catching on fire  | Having fire extinguisher           |
+|                            | Testing Zeppelin with Helium first |
+| Losing control of zeppelin | Having physical off-switch         |
+|                            | Only flying in a cleared area      |
 
 ### Important Links ###
 
