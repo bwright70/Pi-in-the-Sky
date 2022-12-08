@@ -1,15 +1,20 @@
 # Joe B.I.E.ndenburg (Not A Blimp) #
 
 ## Planning ##
-PROTOTYPE PAYLOAD WEIGHT ESTIMATE: 24g
-FINAL PAYLOAD WEIGHT ESTIMATE: 49g
+
 ### Diagrams/Images ###
+
+End Goal:
 
 ![End-Goal](/Images/End-Goal_thumb.jpg)
 
 ![Zeppelin-1](/Images/Zeppelin-1_thumb.png)
 
 ![Zeppelin-2](/Images/Zeppelin-2_thumb.png)
+
+![Final-Diagram](/Images/Final-Diagram_thumb.png)
+
+![Prototype-Diagram](/Images/Protoype-Diagram_thumb.png)
 
 ### Final Function ###
 
@@ -22,6 +27,10 @@ Getting a working zeppelin prototype, filled with helium, that can stay in the a
 ### Code Planning ###
 
 ### Materials Needed ###
+
+Weight Estimate of Prototype Payload: _24g_
+
+Weight Estimate of Final Payload: _49g_
 
 * Balsa wood (for frame)
 
