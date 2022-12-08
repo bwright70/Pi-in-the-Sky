@@ -1,7 +1,8 @@
 # Joe B.I.E.ndenburg (Not A Blimp) #
 
 ## Planning ##
-
+PROTOTYPE PAYLOAD WEIGHT ESTIMATE: 24g
+FINAL PAYLOAD WEIGHT ESTIMATE: 49g
 ### Diagrams/Images ###
 
 ![End-Goal](/Images/End-Goal_thumb.jpg)
