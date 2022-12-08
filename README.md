@@ -4,11 +4,11 @@
 
 ### Diagrams/Images ###
 
-![End-Goal](/Images/End-Goal.jpg)
+![End-Goal](/Images/End-Goal_thumb.jpg)
 
-![Zeppelin-1](/Images/Zeppelin-1.png)
+![Zeppelin-1](/Images/Zeppelin-1_thumb.png)
 
-![Zeppelin-2](/Images/Zeppelin-2.png)
+![Zeppelin-2](/Images/Zeppelin-2_thumb.png)
 
 ### Final Function ###
 
@@ -29,6 +29,18 @@ Getting a working zeppelin prototype, filled with helium, that can stay in the a
 * Hydrogen (for final gas)
 
 * Mylar material (for frame)
+
+* Pico
+
+* Battery Pack
+
+* Accelerometer
+
+* Barometer
+
+* RC controller
+
+* Small fan
 
 ### Knowledge Needed ###
 
