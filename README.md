@@ -28,7 +28,7 @@ Getting a working zeppelin prototype, filled with helium, that can stay in the a
 
 ### Materials Needed ###
 
-Approximate volume needed: 5/111 m^3
+Approximate volume needed (to lift ~50g): 5/111 m^3
 
 Weight Estimate of Prototype Payload: _24g_
 
