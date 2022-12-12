@@ -14,7 +14,7 @@ End Goal:
 
 ![Final-Diagram](/Images/Final-Diagram_thumb.png)
 
-![Prototype-Diagram](/Images/Protoype-Diagram_thumb.png)
+![Prototype-Diagram](/Images/Protoype-Diagram.png)
 
 ### Final Function ###
 
@@ -28,9 +28,7 @@ Getting a working zeppelin prototype, filled with helium, that can stay in the a
 
 ### Materials Needed ###
 
-Approximate volume needed (to lift ~50g): 5/111 m^3
-
-slay
+Approximate volume of helium needed (to lift ~50g): 5/111 m^3
 
 Weight Estimate of Prototype Payload: _24g_
 
