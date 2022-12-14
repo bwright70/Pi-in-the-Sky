@@ -86,6 +86,4 @@ Weight Estimate of Final Payload: _49g_
 
 ### Onshape Prototypes ###
 
-![Ver. 1](Images/Ver. 1.png)
-
-![Ver. 2](Images/Assembly 1.png)
+<img src="Images/Assembly 1.png" width="400" height="600" />
