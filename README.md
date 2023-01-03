@@ -1,8 +1,8 @@
-# Joe B.I.E.ndenburg (Not A Blimp) #
+# Joe B.I.E.ndenburg (Not A Blimp)
 
-## Planning ##
+## Planning
 
-### Diagrams/Images ###
+### Diagrams/Images
 
 End Goal:
 
@@ -16,17 +16,27 @@ End Goal:
 
 ![Prototype-Diagram](/Images/Protoype-Diagram.png)
 
-### Final Function ###
+### Final Function
 
 To make a neutrally buoyant aircraft that we can remotely control.
 
-### Measure of Success ###
+### Measure of Success
 
 Getting a working zeppelin prototype, filled with helium, that can stay in the air and collect data.
 
-### Code Planning ###
+### Important Links
 
-### Materials Needed ###
+- [Onshape Document](https://cvilleschools.onshape.com/documents/03b6c87fd63f0cfe1abe3b9f/w/c0d37a57fae264806faea58d/e/7c19cf524fd815255116abdc?configuration=List_wWFAFNsKWOodkj%3DScaled&renderMode=0&uiState=6399dc968ac0e521296a31f0)
+
+- [GitHub Project](https://github.com/users/bwright70/projects/3/views/1)
+
+- [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y183NjVlMGIwODRhZmYwMWQ0NTk1NTc3YmI5MDZjMWQ5NDFhNjE2MzUxOGFiZTYzMDM4MWMxNWQwMjBiYjgxNDliQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+- [Google Docs Planning Document](https://docs.google.com/document/d/1Qct2rjEhtyD-eSzZsQ66V3ohhlDkUk79MRwbGKh-5P4/edit?usp=sharing)
+
+- [The Airship Simon](http://www.znuerb.com/Simon/construc.html)
+
+### Materials Needed
 
 Approximate volume of helium needed (to lift ~50g): 5/111 m^3
 
@@ -34,35 +44,35 @@ Weight Estimate of Prototype Payload: _24g_
 
 Weight Estimate of Final Payload: _49g_
 
-* Balsa wood (for frame)
+- Balsa wood (for frame)
 
-* Helium (for testing gas)
+- Helium (for testing gas)
 
-* Hydrogen (for final gas)
+- Hydrogen (for final gas)
 
-* Mylar material (for frame)
+- Mylar material (for frame)
 
-* Pico
+- Pico
 
-* Battery Pack
+- Battery Pack
 
-* Accelerometer
+- Accelerometer
 
-* Barometer
+- Barometer
 
-* RC controller
+- RC controller
 
-* Small fan
+- Small fan
 
-### Knowledge Needed ###
+### Knowledge Needed
 
-* Remote control for fans
+- Remote control for fans
 
-* Amount of Helium/Hydrogen needed
+- Amount of Helium/Hydrogen needed
 
-* How to make a Zeppelin frame and connectors
+- How to make a Zeppelin frame and connectors
 
-### Safety Concerns and Measures ###
+### Safety Concerns and Measures
 
 | Concern                    | Countermeasure                     |
 | -------------------------- | ---------------------------------- |
@@ -72,19 +82,7 @@ Weight Estimate of Final Payload: _49g_
 | Losing control of zeppelin | Having physical off-switch         |
 |                            | Only flying in a cleared area      |
 
-### Important Links ###
-
-* [Onshape Document](https://cvilleschools.onshape.com/documents/03b6c87fd63f0cfe1abe3b9f/w/c0d37a57fae264806faea58d/e/7c19cf524fd815255116abdc?configuration=List_wWFAFNsKWOodkj%3DScaled&renderMode=0&uiState=6399dc968ac0e521296a31f0)
-
-* [GitHub Project](https://github.com/users/bwright70/projects/3/views/1)
-
-* [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y183NjVlMGIwODRhZmYwMWQ0NTk1NTc3YmI5MDZjMWQ5NDFhNjE2MzUxOGFiZTYzMDM4MWMxNWQwMjBiYjgxNDliQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-
-* [Google Docs Planning Document](https://docs.google.com/document/d/1Qct2rjEhtyD-eSzZsQ66V3ohhlDkUk79MRwbGKh-5P4/edit?usp=sharing)
-
-* [The Airship Simon](http://www.znuerb.com/Simon/construc.html)
-
-### Onshape Prototypes ###
+### Onshape Prototypes
 
 Version 1:
 
@@ -93,3 +91,15 @@ Version 1:
 Version 2:
 
 <img src="Images/Assembly 1.png" width="700" height="400" />
+
+### Important Links
+
+- [Onshape Document](https://cvilleschools.onshape.com/documents/03b6c87fd63f0cfe1abe3b9f/w/c0d37a57fae264806faea58d/e/7c19cf524fd815255116abdc?configuration=List_wWFAFNsKWOodkj%3DScaled&renderMode=0&uiState=6399dc968ac0e521296a31f0)
+
+- [GitHub Project](https://github.com/users/bwright70/projects/3/views/1)
+
+- [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y183NjVlMGIwODRhZmYwMWQ0NTk1NTc3YmI5MDZjMWQ5NDFhNjE2MzUxOGFiZTYzMDM4MWMxNWQwMjBiYjgxNDliQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+- [Google Docs Planning Document](https://docs.google.com/document/d/1Qct2rjEhtyD-eSzZsQ66V3ohhlDkUk79MRwbGKh-5P4/edit?usp=sharing)
+
+- [The Airship Simon](http://www.znuerb.com/Simon/construc.html)
