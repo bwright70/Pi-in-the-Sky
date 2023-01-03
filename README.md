@@ -24,17 +24,21 @@ To make a neutrally buoyant aircraft that we can remotely control.
 
 Getting a working zeppelin prototype, filled with helium, that can stay in the air and collect data.
 
-### Important Links
+### Schedule
 
-- [Onshape Document](https://cvilleschools.onshape.com/documents/03b6c87fd63f0cfe1abe3b9f/w/c0d37a57fae264806faea58d/e/7c19cf524fd815255116abdc?configuration=List_wWFAFNsKWOodkj%3DScaled&renderMode=0&uiState=6399dc968ac0e521296a31f0)
+1. Make a frame (by 01/20, end of Q2)
 
-- [GitHub Project](https://github.com/users/bwright70/projects/3/views/1)
+2. Make a balloon, reassess the calendar (by 02/18, Presidents’ Day wknd.)
 
-- [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y183NjVlMGIwODRhZmYwMWQ0NTk1NTc3YmI5MDZjMWQ5NDFhNjE2MzUxOGFiZTYzMDM4MWMxNWQwMjBiYjgxNDliQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+3. Add Flight tracker (by Spring Break, to run test flights)
 
-- [Google Docs Planning Document](https://docs.google.com/document/d/1Qct2rjEhtyD-eSzZsQ66V3ohhlDkUk79MRwbGKh-5P4/edit?usp=sharing)
+   **Spring Break**
 
-- [The Airship Simon](http://www.znuerb.com/Simon/construc.html)
+4. Add up and down controller
+
+5. Add forward and backwards controller
+
+6. Add Explosion
 
 ### Materials Needed
 
