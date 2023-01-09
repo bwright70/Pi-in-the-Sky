@@ -25,7 +25,8 @@ try:
 
             print(f"x: {x} m/s^2  y: {y} m/s^2 z: {z} m/s^2 \n Altitude: {sensor.altitude}")
 
-            fp.write(f"x: {x} m/s^2  y: {y} m/s^2 z: {z} m/s^2 \n Altitude: {sensor.altitude}")
+#            fp.write(f"x: {x} m/s^2  y: {y} m/s^2 z: {z} m/s^2 \n Altitude: {sensor.altitude}")
+            fp.write(f"{x},{y},{z},{sensor.altitude}\n")
             fp.flush()
             led.value = not led.value
             time.sleep(1)
