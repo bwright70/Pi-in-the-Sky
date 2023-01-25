@@ -100,11 +100,11 @@ Final Weight Estimate: _49g_
 
 Version 1:
 
-<img src="Images/Ver. 1.png" width="700" height="400" />
+<img src="Images/CAD-V1.png" width="700" height="400" />
 
 Version 2:
 
-<img src="Images/Assembly 1.png" width="700" height="400" />
+<img src="Images/4-Section.png" width="700" height="400" />
 
 ### Important Links
 
