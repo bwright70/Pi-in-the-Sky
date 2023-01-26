@@ -28,25 +28,35 @@ Getting a working zeppelin prototype, filled with helium, that can stay in the a
 
 1. Make a frame (by 01/20, end of Q2)
 
-2. Make a balloon, reassess the calendar (by 02/18, Presidents’ Day wknd.)
+   - Wrap frame in Mylar
+   - Succesfully read and write all sensor data to Pico internal storage
+   - Design enclosure for pico, sensors, battery, and wiring.
+   - Ensure zeppelin can support weight of itself, _and_ the weight of all components.
 
-3. Add Flight tracker (by Spring Break, to run test flights)
+2. Inflate the zeppelin, reassess the calendar (by 02/18, Presidents’ Day wknd.)
+
+   - Conduct small-scale test "floats"/flights
+   - Work on making data collection wireless
+   - Achieve neutral buoyancy
+   - Start research on remote control
+
+3. Add Flight tracker (by Spring Break, to run large-scale test flights)
 
    **Spring Break**
 
-4. Add up and down controller
+4. Add up and down controller (by 04/28)
 
-5. Add forward and backwards controller
+5. Add forward and backwards controller (by 05/19)
 
-6. Add Explosion
+6. Add Explosion (by 05/26)
 
 ### Materials Needed
 
 Approximate volume of helium needed (to lift ~50g): 5/111 m^3
 
-Weight Estimate of Prototype Payload: _24g_
+Prototype Weight Estimate: _24g_
 
-Weight Estimate of Final Payload: _49g_
+Final Weight Estimate: _49g_
 
 - Balsa wood (for frame)
 
@@ -90,11 +100,11 @@ Weight Estimate of Final Payload: _49g_
 
 Version 1:
 
-<img src="Images/Ver. 1.png" width="700" height="400" />
+<img src="Images/CAD-V1.png" width="700" height="400" />
 
 Version 2:
 
-<img src="Images/Assembly 1.png" width="700" height="400" />
+<img src="Images/4-Section.png" width="700" height="400" />
 
 ### Important Links
 
