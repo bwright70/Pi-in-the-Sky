@@ -8,7 +8,7 @@ import digitalio
 import storage
 
 # For Gemma M0, Trinket M0, Metro M0/M4 Express, ItsyBitsy M0/M4 Express
-switch = digitalio.DigitalInOut(board.GP2)
+switch = digitalio.DigitalInOut(board.GP0)
 
 # For Feather M0/M4 Express
 # switch = digitalio.DigitalInOut(board.D5)

@@ -32,9 +32,10 @@ try:
             time.sleep(1)
 
 except OSError as e:  # Typically when the filesystem isn't writeable...
-    delay = 0.5  # ...blink the LED every half second.
+    delay = 0.25  # ...blink the LED every half second.
     if e.args[0] == 28:  # If the file system is full...
-        delay = 0.25  # ...blink the LED faster!
+        delay = 0.1  # ...blink the LED faster!
     while True:
         led.value = not led.value
         time.sleep(delay)
+        #aaaa
