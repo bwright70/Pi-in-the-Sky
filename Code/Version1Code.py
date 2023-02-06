@@ -10,8 +10,8 @@ sda_pin = board.GP14
 scl_pin = board.GP15
 i2c = busio.I2C(scl_pin, sda_pin) 
 
-mpu = adafruit_mpu6050.MPU6050(i2c) #mpu init
 sensor = adafruit_mpl3115a2.MPL3115A2(i2c, address=0x60) #Altimeter init
+mpu = adafruit_mpu6050.MPU6050(i2c, address=0x68) #mpu init
 
 led = digitalio.DigitalInOut(board.LED)
 led.switch_to_output()
@@ -32,9 +32,10 @@ try:
             time.sleep(1)
 
 except OSError as e:  # Typically when the filesystem isn't writeable...
-    delay = 0.5  # ...blink the LED every half second.
+    delay = 0.25  # ...blink the LED every half second.
     if e.args[0] == 28:  # If the file system is full...
-        delay = 0.25  # ...blink the LED faster!
+        delay = 0.1  # ...blink the LED faster!
     while True:
         led.value = not led.value
         time.sleep(delay)
+        #aaaa

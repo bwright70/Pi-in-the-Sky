@@ -8,6 +8,8 @@ Above is a link to our main page, with updates.
 
 End Goal:
 
+![Airship Diagram](Images/airshipstype.jpg)
+
 ![End-Goal](/Images/End-Goal_thumb.jpg)
 
 ![Zeppelin-1](/Images/Zeppelin-1_thumb.png)
@@ -117,3 +119,5 @@ Version 2:
 - [Google Docs Planning Document](https://docs.google.com/document/d/1Qct2rjEhtyD-eSzZsQ66V3ohhlDkUk79MRwbGKh-5P4/edit?usp=sharing)
 
 - [The Airship Simon](http://www.znuerb.com/Simon/construc.html)
+
+- [Site about Airships](https://www.aero.iitb.ac.in/~ltasys/WEBPAGES/WEBPAGES/LTA.html#:~:text=The%20airship%20is%20filled%20with,floats%20in%20the%20heavier%20air.)
