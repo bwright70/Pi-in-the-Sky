@@ -6,12 +6,13 @@ Above is a link to the planning page from our project proposal.
 
 ## YouTube Channel
 
-| #   | Date       | Video                                              |
-| --- | ---------- | -------------------------------------------------- |
-| 0   | 2023-01-18 | [CAD Catch-up](https://youtu.be/xfZlytLQ_GU)       |
-| 1   | 2023-01-18 | [Code Catch-up](https://youtu.be/OjiJY7ihrKs)      |
-| 2   | 2023-01-25 | [The Frame's Here!!](https://youtu.be/7JANqRXmuZ0) |
-| 3   | 2023-02-02 | [Ball🎈🎈n(s?)!!!!](https://youtu.be/61AMVDbxwmk)  |
+| #   | Date       | Video                                                        |
+| --- | ---------- | ------------------------------------------------------------ |
+| 0   | 2023-01-18 | [CAD Catch-up](https://youtu.be/xfZlytLQ_GU)                 |
+| 1   | 2023-01-18 | [Code Catch-up](https://youtu.be/OjiJY7ihrKs)                |
+| 2   | 2023-01-25 | [The Frame's Here!!](https://youtu.be/7JANqRXmuZ0)           |
+| 3   | 2023-02-02 | [Ball🎈🎈n(s?)!!!!](https://youtu.be/61AMVDbxwmk)            |
+| 4   | 2023-02-08 | [Buoyant Spice and Joey Trash](https://youtu.be/qYgovjCG950) |
 
 ## Onshape
 
