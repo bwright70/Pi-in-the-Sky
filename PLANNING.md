@@ -8,7 +8,7 @@ Above is a link to our main page, with updates.
 
 End Goal:
 
-![Airship Diagram](Images/airshipstype.jpg)
+![Airship Diagram](Images/Airship-Types.jpg)
 
 ![End-Goal](/Images/End-Goal_thumb.jpg)
 
