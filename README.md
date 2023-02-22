@@ -50,3 +50,10 @@ Full 6-Section Assembly:
 Up-close of Pi-bird, aka attachment plate for Pico and other wiring components:
 
 ![Pi Bird](/Images/Pi-Bird.png)
+
+Wiring diagram:
+
+![Wiring](/Images/WiringDiagram.png)
+
+### Code Rundown
+
