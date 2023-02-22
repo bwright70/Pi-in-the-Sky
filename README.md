@@ -35,7 +35,7 @@ Directories:
 
 ### The Basics
 
-The idea behind this project is to make a series of partial ring connectors that can be assembled to make a much larger frame. The major problem we've been working against needing enough volume to carry the weight of the Pi and Frame. The print beds of the 3d printers are only 210mm by 210mm which is a massive size constraint. So we made a ring into six sections attached by balsa wood spars that would be much larger than just a single ring.
+The idea behind this project is to make a series of partial ring connectors that can be assembled to make a much larger frame. The major problem we've been working against is having enough volume to carry the weight of the Pi and Frame. The print beds of the 3d printers are only 210mm by 210mm which is a massive size constraint. So we made a ring into six sections attached by balsa wood spars that would be much larger than just a single ring.
 
 ### The Images
 
