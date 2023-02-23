@@ -35,7 +35,11 @@ Directories:
 
 ### The Basics
 
-The idea behind this project is to make a series of partial ring connectors that can be assembled to make a much larger frame. The major problem we've been working against needing enough volume to carry the weight of the Pi and Frame. The print beds of the 3d printers are only 210mm by 210mm which is a massive size constraint. So we made a ring into six sections attached by balsa wood spars that would be much larger than just a single ring.
+The idea behind this project is to make a series of partial ring connectors that can be assembled to make a much larger frame. The major problem we've been working against is having enough volume to carry the weight of the Pi and Frame. The print beds of the 3d printers are only 210mm by 210mm which is a massive size constraint. So we made a ring into six sections attached by balsa wood spars that would be much larger than just a single ring.
+
+### The Assembly 
+
+There are three components to the Zepplin: The Frame, The Balloon, and The Pi. The Balloon is inside the frame and filled with helium. The Pi is attached to the frame on the outside. 
 
 ### The Images
 
@@ -51,9 +55,17 @@ Up-close of Pi-bird, aka attachment plate for Pico and other wiring components:
 
 ![Pi Bird](/Images/Pi-Bird.png)
 
+<<<<<<< HEAD
 Wiring diagram:
 
 ![Wiring](/Images/WiringDiagram.png)
 
 ### Code Rundown
 
+=======
+### Difficulties 
+
+The biggest challenge was just fine tuning the connector points so that they were a tight fit around the balsa spars but not too tight that assembly was impossible. After several test prints we eventaully landed on a perfect fit. 
+
+Originally there was going to be a 5th ring that would fit outside the mylar balloon but we scrapped this idea once we decided that the balloon would be internal the 5th ring was scrapped in favor of a single unique attachment that would hold the Pi Bird. 
+>>>>>>> e4aa8421dc84b5d86201ab46b66342f77de6b213
