@@ -1,27 +1,40 @@
 # Images
 
+4 Section:
 ![4 Section](4-Section.png)
 
-![Alt text](6-Section-Assembly.png)
+6 Section Assembly:
+![6 Section Assembly](6-Section-Assembly.png)
 
-![Alt text](Airship-Types.jpg)
+Airship Types
+![Airship Types](Airship-Types.jpg)
 
-![Alt text](CAD-V1.png)
+CAD V1:
+![CAD V1](CAD-V1.png)
 
-![Alt text](End-Goal.jpg)
+End Goal:
+![End Goal](End-Goal.jpg)
 
-![Alt text](Final-Diagram.png)
+Final Diagram:
+![Final Diagram](Final-Diagram.png)
 
-![Alt text](NewZeppelinDiagramFront.png)
+New Zeppelin Diagram, Front View:
+![New Zeppelin Diagram, Front View](NewZeppelinDiagramFront.png)
 
-![Alt text](NewZeppelinDiagramSide.png)
+New Zeppelin Diagram, Side View:
+![New Zeppelin Diagram, Side View](NewZeppelinDiagramSide.png)
 
-![Alt text](Pi-Bird.png)
+Pi Bird:
+![Pi Bird](Pi-Bird.png)
 
-![Alt text](Protoype-Diagram.png)
+Prototype Diagram:
+![Prototype Diagram](Protoype-Diagram.png)
 
-![Alt text](Spar-Connector.png)
+Spar Connector:
+![Spar Connector](Spar-Connector.png)
 
-![Alt text](Zeppelin-1.png)
+Zeppelin 1:
+![Zeppelin 1](Zeppelin-1.png)
 
-![Alt text](Zeppelin-2.png)
+Zeppelin 2:
+![Zeppelin 2](Zeppelin-2.png)
