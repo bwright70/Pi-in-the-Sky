@@ -33,6 +33,9 @@ Prototype Diagram:
 Spar Connector:
 ![Spar Connector](Spar-Connector.png)
 
+Wiring Diagram:
+![Wiring Diagram](WiringDiagram.png)
+
 Zeppelin 1:
 ![Zeppelin 1](Zeppelin-1.png)
 
