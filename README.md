@@ -35,13 +35,15 @@ Directories:
 
 [Onshape Document](https://cvilleschools.onshape.com/documents/03b6c87fd63f0cfe1abe3b9f/w/c0d37a57fae264806faea58d/e/ea3240c36bb4a6a681fb9b2a)
 
-### The Basics
+### The Design
 
-The idea behind this project is to make a series of partial ring connectors that can be assembled to make a much larger frame. The major problem we've been working against is having enough volume to carry the weight of the Pi and Frame. The print beds of the 3d printers are only 210mm by 210mm which is a massive size constraint. So we made a ring into six sections attached by balsa wood spars that would be much larger than just a single ring.
+The idea behind this project is to make a series of partial ring connectors that can be assembled to make a much larger frame. The major problem we've been working against is having enough volume to carry the weight of the Pi and Frame. The print beds of the 3d printers are only 210mm by 210mm which is a massive size constraint. So we made a ring into six sections attached by balsa wood spars that would be much larger than just a single ring. 
+
+Each ring section has three connection points: Two on the ends and one in the middle. The balsa spars alternate between connection points which adds ridgitity without adding much weight. 
 
 ### The Assembly
 
-There are three components to the Zepplin: The Frame, The Balloon, and The Pi. The Balloon is inside the frame and filled with helium. The Pi is attached to the frame on the outside.
+There are three components to the Zepplin: The Frame, The Balloon, and The Pi. The frame consists of four rings that alternate connection points. The Balloon is inside the frame and filled with helium. The Pi is attached to the frame on the outside.
 
 ### The Images
 
