@@ -19,7 +19,7 @@ Other Pages:
 Directories:
 
 - [Code](/Code/)
-- [Images](/Images/)
+- [Images](/Images/IMAGES.md)
 
 ## YouTube Channel
 
