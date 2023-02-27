@@ -18,8 +18,8 @@ Other Pages:
 
 Directories:
 
-- [Code](/Code/)
-- [Images](~/Images/IMAGES.md)
+- [Code](/Code/CODE.md)
+- [Images](/Images/IMAGES.md)
 
 ## YouTube Channel
 
