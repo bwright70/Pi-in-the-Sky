@@ -68,3 +68,23 @@ Full 6-Section Assembly:
 Up-close of Pi-bird, aka attachment plate for Pico and other wiring components:
 
 ![Pi Bird](/Images/Pi-Bird.png)
+
+
+
+## Code
+
+Code diagram for design with no propellers (initial design):
+
+![CodeBlockDiagram](/Images/CodeBlockNoMovementControl.png)
+
+Code diagram for design with propellers (potential final design):
+
+![CodeBlockDiagram2](/Images/CodeBlockMovementControl.png)
+
+[Current code file](https://github.com/bwright70/Pi-in-the-Sky/blob/main/Code/Code_v1.py)
+
+### Wiring
+
+Wiring diagram:
+
+![Wiring](/Images/WiringDiagram.png)
