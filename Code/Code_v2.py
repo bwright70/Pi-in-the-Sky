@@ -9,6 +9,7 @@ import adafruit_mpu6050
 import busio
 import adafruit_mpl3115a2
 import microcontroller
+import pwmio
 
 sda_pin = board.GP14
 scl_pin = board.GP15
@@ -20,9 +21,25 @@ mpu = adafruit_mpu6050.MPU6050(i2c, address=0x68)  # Initialization of MPU Accel
 led = digitalio.DigitalInOut(board.LED)
 led.switch_to_output()  # Initiliazation of on-board LED
 
+MOTOR_1 = board.GP11
+MOTOR_2 = board.GP21
+MOTOR_3 = board.GP20
+MOTOR_4 = board.GP10
+motor1_pwm = pwmio.PWMOut(MOTOR_1, frequency=1000)
+motor2_pwm = pwmio.PWMOut(MOTOR_2, frequency=1000)
+motor3_pwm = pwmio.PWMOut(MOTOR_3, frequency=1000)
+motor4_pwm = pwmio.PWMOut(MOTOR_4, frequency=1000)
+
 try:
     with open("/temperature.csv", "a") as fp:
         while True:
+
+            motor1_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
+            motor2_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
+            motor3_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
+            motor4_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
+
+
             x = mpu.acceleration[0]
             y = mpu.acceleration[1]
             z = mpu.acceleration[2]  # Pulls of all the mpu acceleration values
@@ -34,7 +51,7 @@ try:
             fp.write(f"{x},{y},{z},{sensor.altitude}\n") # Writes data to temperature.csv
             fp.flush()
             led.value = not led.value
-            time.sleep(1)
+            time.sleep(0.2)
 
 except OSError as e:  # Typically when the filesystem isn't writeable...
     delay = 0.25  # ...blink the LED every half second.
