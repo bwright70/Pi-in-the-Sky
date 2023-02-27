@@ -69,7 +69,9 @@ Up-close of Pi-bird, aka attachment plate for Pico and other wiring components:
 
 ![Pi Bird](/Images/Pi-Bird.png)
 
-### Code
+
+
+## Code
 
 Code diagram for design with no propellers (initial design):
 
