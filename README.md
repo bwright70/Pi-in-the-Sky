@@ -82,7 +82,18 @@ The Bladder had to accomplish three things:
 
 ### Trials and Difficulties
 
+Orignally we planned to make the bladder out of Mylar. 
 
+Pros of Mylar:
+- Cheap 
+- Light 
+- Its what fancy balloons are made of 
+
+Cons of Mylar: 
+- It does heat seal but not with the equipment we had on hand which means we would need to use a contact adhesive 
+- The mylar we were able to get was inconviently sized meaning we would need to seal several sheets together
+
+We ended up deciding to do Polyethalena 
 
 ### Final
 
