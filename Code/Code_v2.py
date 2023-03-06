@@ -25,19 +25,32 @@ MOTOR_1 = board.GP11
 MOTOR_2 = board.GP21
 MOTOR_3 = board.GP20
 MOTOR_4 = board.GP10
-motor1_pwm = pwmio.PWMOut(MOTOR_1, frequency=1000)
-motor2_pwm = pwmio.PWMOut(MOTOR_2, frequency=1000)
-motor3_pwm = pwmio.PWMOut(MOTOR_3, frequency=1000)
-motor4_pwm = pwmio.PWMOut(MOTOR_4, frequency=1000)
+rightmotor_pwm = pwmio.PWMOut(MOTOR_1, frequency=1000)
+leftmotor_pwm = pwmio.PWMOut(MOTOR_2, frequency=1000)
+upmotor_pwm = pwmio.PWMOut(MOTOR_3, frequency=1000)
+downmotor_pwm = pwmio.PWMOut(MOTOR_4, frequency=1000)
 
 try:
     with open("/temperature.csv", "a") as fp:
         while True:
-
-            motor1_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
-            motor2_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
-            motor3_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
-            motor4_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
+            #get bluetooth input
+            if #bluetoothinput = right:
+                leftmotor_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
+                rightmotor_pwm.duty_cycle = 0  # Turns right motor off
+            if #bluetoothinput = left
+                rightmotor_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
+                leftmotor_pwm.duty_cycle = 0  #Turns left motor off
+            if #bluetoothinput = up
+                upmotor_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
+                downmotor_pwm.duty_cycle = 0 # Turns down motor off
+            if #bluetoothinpt = down
+                downmotor_pwm.duty_cycle = 65535 // 2  # Cycles the pin with 50% duty cycle (half of 2 ** 16)
+                upmotor_pwm.duty_cycle = 0 #Turns up motor off
+            else:
+                rightmotor_pwm.duty_cycle = 0
+                leftmotor_pwm.duty_cycle = 0
+                downmotor_pwm.duty_cycle = 0
+                upmotor_pwm.duty_cycle = 0
 
 
             x = mpu.acceleration[0]
