@@ -69,7 +69,22 @@ Up-close of Pi-bird, aka attachment plate for Pico and other wiring components:
 
 ![Pi Bird](/Images/Pi-Bird.png)
 
+## Helium Bladder
 
+### The Design
+
+We knew from the very start of our project that we were going to need some sort of container for the helium. Intially we were planning on the frame being internal, but there were many problems with this, the main one being 'How do we get the air out and the helium in without crushing the frame', and upon futher research we discovered that zeppelins actually have an internal bladder as well. This made things much easier. 
+
+The Bladder had to accomplish three things:
+1. Keep the helium in 
+2. Be super light
+3. Be easy to seal so that we wouldn't have to buy fancy industrial equipment for our project 
+
+### Trials and Difficulties
+
+
+
+### Final
 
 ## Code
 
