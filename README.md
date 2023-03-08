@@ -53,7 +53,7 @@ There are three components to the Zepplin: The Frame, The Helium Bladder, and Th
 
 The biggest challenge was just fine tuning the connector points so that they were a tight fit around the balsa spars but not too tight that assembly was impossible. After several test prints we eventually landed on a perfect fit.
 
-Originally there was going to be a 5th ring that would fit outside the mylar balloon but we scrapped this idea once we decided that the balloon would be internal the 5th ring was scrapped in favor of a single unique attachment that would hold the Pi Bird.
+Originally there was going to be a 5th ring that would fit outside the bladder but we scrapped this idea once we decided that the bladder would be internal. The 5th ring was scrapped in favor of a single unique attachment (Pi Bird) that would hold the Pi Plate.
 
 The other massive challenge over shadowing the whole project was that of weight. Orignally the frame's connector rings were 7mm thick which provided a fairly ridge structure but was also too heavy. We dropped it to 4mm which cut nearly 60 grams from the frame at the cost of it being dangerously flexible. The stress points of the frame were not the rings but acutally the balsa spars which weren't as flexible as the rings. Fortunatly despite its reduced strength the frame was still able to hold up just fine.  
 
