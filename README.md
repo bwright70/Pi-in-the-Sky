@@ -80,33 +80,36 @@ The Bladder had to accomplish three things:
 2. Be super light
 3. Be easy to seal so that we wouldn't have to buy fancy industrial equipment for our project 
 
-### Trials and Difficulties
+### Material
 
-Orignally we planned to make the bladder out of Mylar. 
+We had two options with the material that we could make the bladder out of. Orignally we planned to make the bladder out of Mylar. Heat sealing is the best and easiest way to seal the bladder, and, after some difficulties with heat sealing mylar due to it's sealing temperature being quite high and it not wanting it adhere to itself, we also looked into Polyethylene which is what trash bags are typically made of. 
 
-Pros of Mylar:
+#### Pros of Mylar:
 - Cheap 
 - Light 
-- Its what fancy balloons are made of 
+- It's what fancy balloons are made of 
 
-Cons of Mylar: 
+#### Cons of Mylar: 
 - It does heat seal but not with the equipment we had on hand which means we would need to use a contact adhesive 
 - The mylar we were able to get was inconviently sized meaning we would need to seal several sheets together
 
-We ended up deciding to choose Polyethylene which is what trash bags are made out of
-
-Pros of Polyethylene: 
+#### Pros of Polyethylene: 
 - Free (provided by the school)
 - Very easy to heat seal with supplies on hand 
 - Allowed for more trial and error because we had a functionally unlimited amount 
+- It's also what fancy balloons are made of 
 
-Cons of Polyethylene:
+#### Cons of Polyethylene:
 - Not as light as Mylar 
 - Pretty bulky which is bad for a design that has to be light and volume efficent 
 
-In the end the ability to heat seal polyethylene with just a hair straightner made it a much better option espically since the addition of a contact adhesive nessissary to seal mylar would make it's weight advantage void 
+### Trials 
 
-### Final
+In the end we choose polyethylene. The ability to heat seal with just a hair straightner made it a much better option espically since the addition of a contact adhesive nessissary to seal mylar would make it's weight advantage void. 
+
+We went through many tests of the sealing method and determined that, while heating seal does weaken the trash bag around the seal leading to micro tears, as long as too much pressure isn't put on the seams they would hold air, and hopefully helium, just fine. 
+
+The final design ended up being two trash bags sealed together by their openings and cut open at the ends and resealed in order to maximize volume.
 
 ## Code
 
