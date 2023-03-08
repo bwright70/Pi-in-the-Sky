@@ -47,13 +47,15 @@ The main goal was to optimize volume while at the same time adding as little wei
 
 ### The Assembly
 
-There are three components to the Zepplin: The Frame, The Balloon, and The Pi. The frame consists of four rings that alternate connection points. The Balloon is inside the frame and filled with helium. The Pi is attached to the frame on the outside.
+There are three components to the Zepplin: The Frame, The Helium Bladder, and The Pi. The frame consists of four rings that alternate connection points. The Bladder is inside the frame and filled with helium. The Pi is attached to the frame on the outside.
 
 ### Difficulties
 
-The biggest challenge was just fine tuning the connector points so that they were a tight fit around the balsa spars but not too tight that assembly was impossible. After several test prints we eventaully landed on a perfect fit.
+The biggest challenge was just fine tuning the connector points so that they were a tight fit around the balsa spars but not too tight that assembly was impossible. After several test prints we eventually landed on a perfect fit.
 
 Originally there was going to be a 5th ring that would fit outside the mylar balloon but we scrapped this idea once we decided that the balloon would be internal the 5th ring was scrapped in favor of a single unique attachment that would hold the Pi Bird.
+
+The other massive challenge over shadowing the whole project was that of weight. Orignally the frame's connector rings were 7mm thick which provided a fairly ridge structure but was also too heavy. We dropped it to 4mm which cut nearly 60 grams from the frame at the cost of it being dangerously flexible. The stress points of the frame were not the rings but acutally the balsa spars which weren't as flexible as the rings. Fortunatly despite its reduced strength the frame was still able to hold up just fine.  
 
 ### The Images
 
