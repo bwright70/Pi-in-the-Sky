@@ -6,6 +6,10 @@
 
 ```# Takes sensor data and writes to internal storage```
 
+[Code_v1.py](/Code/Code_v1.py):
+
+```#Incomplete code meant to both write data and control the zeppelin through motors```
+
 [i2c_check.py](/Code/i2c_check.py/):
 
 ```# For finding the i2c address of a device```
