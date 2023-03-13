@@ -6,7 +6,7 @@
 
 ```Takes sensor data and writes to internal storage```
 
-[Code_v1.py](/Code/Code_v1.py):
+[Code_v2.py](/Code/Code_v2.py):
 
 ```Incomplete code meant to both write data and control the zeppelin through motors```
 

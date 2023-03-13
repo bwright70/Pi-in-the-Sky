@@ -24,11 +24,11 @@ led.switch_to_output()  # Initiliazation of on-board LED
 MOTOR_1 = board.GP11
 MOTOR_2 = board.GP21
 MOTOR_3 = board.GP20
-MOTOR_4 = board.GP10
+MOTOR_4 = board.GP10    #Sets motor pins
 rightmotor_pwm = pwmio.PWMOut(MOTOR_1, frequency=1000)
 leftmotor_pwm = pwmio.PWMOut(MOTOR_2, frequency=1000)
 upmotor_pwm = pwmio.PWMOut(MOTOR_3, frequency=1000)
-downmotor_pwm = pwmio.PWMOut(MOTOR_4, frequency=1000)
+downmotor_pwm = pwmio.PWMOut(MOTOR_4, frequency=1000)   #Initializes motors and sets frequency
 
 try:
     with open("/temperature.csv", "a") as fp:
@@ -50,7 +50,7 @@ try:
                 rightmotor_pwm.duty_cycle = 0
                 leftmotor_pwm.duty_cycle = 0
                 downmotor_pwm.duty_cycle = 0
-                upmotor_pwm.duty_cycle = 0
+                upmotor_pwm.duty_cycle = 0  #Turns motors off if no input
 
 
             x = mpu.acceleration[0]
@@ -63,11 +63,9 @@ try:
 
             fp.write(f"{x},{y},{z},{sensor.altitude}\n") # Writes data to temperature.csv
             fp.flush()
-            led.value = not led.value
-            time.sleep(0.2)
 
 except OSError as e:  # Typically when the filesystem isn't writeable...
-    delay = 0.25  # ...blink the LED every half second.
+    delay = 0.25  # ...blink the LED every quarter second.
     if e.args[0] == 28:  # If the file system is full...
         delay = 0.1  # ...blink the LED faster!
     while True:
