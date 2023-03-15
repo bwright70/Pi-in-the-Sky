@@ -24,7 +24,7 @@ led.switch_to_output()  # Initiliazation of on-board LED
 MOTOR_1 = board.GP11
 MOTOR_2 = board.GP21
 MOTOR_3 = board.GP20
-MOTOR_4 = board.GP10    #Sets motor pins
+MOTOR_4 = board.GP10    #Sets motor pins wowza
 rightmotor_pwm = pwmio.PWMOut(MOTOR_1, frequency=1000)
 leftmotor_pwm = pwmio.PWMOut(MOTOR_2, frequency=1000)
 upmotor_pwm = pwmio.PWMOut(MOTOR_3, frequency=1000)
