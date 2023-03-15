@@ -65,11 +65,11 @@ Up-close of connector for balsa-wood spars:
 
 Full 6-Section Assembly:
 
-![6-Section Assembly](/Images/6-Section-Assembly.png)
+![6-Section Assembly](/Images/Assembly.png)
 
-Up-close of Pi-bird, aka attachment plate for Pico and other wiring components:
+Up-close of Pi Bird and Pi Plate for Pi and other wiring components:
 
-![Pi Bird](/Images/Pi-Bird.png)
+![Pi Bird](/Images/Pi-Plate.png)
 
 ## Helium Bladder
 
