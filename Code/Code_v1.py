@@ -29,7 +29,7 @@ try:
 
             print(
                 f"x: {x} m/s^2  y: {y} m/s^2 z: {z} m/s^2 \n Altitude: {sensor.altitude}"
-            ) # Data formatted and printed to console
+            ) # Data formatted and printed to console (also pulls altimeter altitude)
 
             fp.write(f"{x},{y},{z},{sensor.altitude}\n") # Writes data to temperature.csv
             fp.flush()
