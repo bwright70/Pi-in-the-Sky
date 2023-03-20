@@ -32,6 +32,9 @@ Directories:
 | 4   | 2023-02-08 | [Buoyant Spice and Joey Trash](https://youtu.be/qYgovjCG950)        |
 | 5   | 2023-02-15 | [Issues, but No Tissues](https://youtu.be/tmu2Px-Pnoc)              |
 | 6   | 2023-02-22 | [Money, Money, Money (Must Be Funny)](https://youtu.be/B1QbSnAPkFs) |
+| 7   | 2023-03-01 | [Orange You Glad to Hear?](https://youtu.be/YR41meGTwW4)            |
+|     | 2023-03-08 | No Episode :(                                                       |
+| 8   | 2023-03-15 | [The Dark Brandon Rises](https://youtu.be/SJHRT1t6aVk)              |
 
 ## CAD
 
