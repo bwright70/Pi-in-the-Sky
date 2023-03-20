@@ -139,3 +139,5 @@ The code for the second version of this project includes sort of pseudo-code to 
 Wiring diagram:
 
 ![Wiring](/Images/WiringDiagram.png)
+
+This wiring is hopefully self explanatory.
