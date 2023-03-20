@@ -4,22 +4,22 @@
 
 README.md:
 
-— [README.md](/README.md)
-— [Youtube Channel](#youtube-channel)
-— [CAD](#cad)
-  — [The Design](#the-design)
-  — [The Assembly](#the-assembly)
-  — [Difficulties](#difficulties)
-  — [CAD Images](#the-images)
+- [README.md](/README.md)
+- [Youtube Channel](#youtube-channel)
+- [CAD](#cad)
+  - [The Design](#the-design)
+  - [The Assembly](#the-assembly)
+  - [Difficulties](#difficulties)
+  - [CAD Images](#the-images)
 
 Other Pages:
 
-— [PLANNING.md](/PLANNING.md)
+- [PLANNING.md](/PLANNING.md)
 
 Directories:
 
-— [Code](/Code/CODE.md)
-— [Images](/Images/IMAGES.md)
+- [Code](/Code/CODE.md)
+- [Images](/Images/IMAGES.md)
 
 ## YouTube Channel
 
