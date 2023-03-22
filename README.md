@@ -119,7 +119,9 @@ In the end we choose polyethylene. The ability to heat seal with just a hair str
 
 We went through many tests of the sealing method and determined that, while heating seal does weaken the trash bag around the seal leading to micro tears, as long as too much pressure isn't put on the seams they would hold air, and hopefully helium, just fine.
 
-The final design ended up being two trash bags sealed together by their openings and cut open at the ends and resealed in order to maximize volume.
+The final design ended up being two trash bags sealed together by their openings and cut open and resealed at the ends and resealed in order to maximize volume. A schrader valve was implemented to ensure we don't have any loss of helium or gas leakage in general. We used a bike pump head sealed around a shop-vac to vacuum the air out of the bag. We used a hair straightener to heat seal the seams.
+
+![Bacuum](/Images/BlowingGif.gif)
 
 ## Code
 
