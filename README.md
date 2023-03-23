@@ -92,26 +92,26 @@ We had two options with the material that we could use for the bladder, and we h
 
 #### Pros of Mylar
 
-— Cheap
-— Light
-— It's what fancy balloons are made of
+- Cheap
+- Light
+- It's what fancy balloons are made of
 
 #### Cons of Mylar
 
-— It does heat seal but not with the equipment we had on hand, which means we would need to use a contact adhesive
-— The Mylar we were able to get was inconveniently sized, meaning we would need to seal several sheets together
+- It does heat seal but not with the equipment we had on hand, which means we would need to use a contact adhesive
+- The Mylar we were able to get was inconveniently sized, meaning we would need to seal several sheets together
 
 #### Pros of Polyethylene
 
-— Free (provided by the school)
-— Very easy to heat seal with supplies on hand
-— Allowed for more trial and error because we had a functionally unlimited amount
-— It's also what fancy balloons are made of
+- Free (provided by the school)
+- Very easy to heat seal with supplies on hand
+- Allowed for more trial and error because we had a functionally unlimited amount
+- It's also what fancy balloons are made of
 
 #### Cons of Polyethylene
 
-— Not as light as Mylar
-— Pretty bulky, which is bad for a design that has to be light and volume efficient
+- Not as light as Mylar
+- Pretty bulky, which is bad for a design that has to be light and volume efficient
 
 ### Trials
 
