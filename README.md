@@ -135,7 +135,7 @@ If you looked at the code file and comments this would likely all become apparen
 
 [Current code file](https://github.com/bwright70/Pi-in-the-Sky/blob/main/Code/Code_v1.py)
 
-The code for the second version of this project includes sort of pseudo-code to use propeller motors based on hypothetical inputs. Thanks to Paul Schakel and Sam Funk for the motor code in this version. [Version 2](/Code/Code_v2.py)
+The code for the second version of this project is essentially the same but includes sort of pseudo-code to use propeller motors based on hypothetical inputs. Thanks to Paul Schakel and Sam Funk for the motor code in this version. [Version 2](/Code/Code_v2.py)
 
 ### Wiring
 
