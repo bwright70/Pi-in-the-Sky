@@ -116,7 +116,7 @@ We had two options with the material that we could use for the bladder, and we h
 
 ### Trials
 
-In the end we choose polyethylene. The ability to heat seal with just a hair straightner made it a much better option espically since the addition of a contact adhesive nessissary to seal mylar would make it's weight advantage void.
+In the end we choose polyethylene. The ability to heat seal with just a hair straightener made it a much better option espically since the addition of a contact adhesive necessary to seal mylar would make it's weight advantage void.
 
 We went through many tests of the sealing method and determined that, while heating seal does weaken the trash bag around the seal leading to micro tears, as long as too much pressure isn't put on the seams they would hold air, and hopefully helium, just fine.
 
