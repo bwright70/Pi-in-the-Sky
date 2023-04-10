@@ -112,6 +112,7 @@ We had two options with the material that we could use for the bladder, and we h
 
 - Not as light as Mylar
 - Pretty bulky, which is bad for a design that has to be light and volume efficient
+- Heat sealing leaves points of weakness around the seams
 
 ### Trials
 
