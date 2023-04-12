@@ -148,6 +148,9 @@ This wiring is hopefully self explanatory.
 
 ### Weight Calculations
 
-Mass:
-Volume: 
+Mass: ~200g
+Volume: 16.951 ft^3
 
+https://rechneronline.de/g-acceleration/uplift.php 
+
+Volume of Helium Needed: 6.70979 ft^3
