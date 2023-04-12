@@ -145,3 +145,9 @@ Wiring diagram:
 ![Wiring](/Images/WiringDiagram.png)
 
 This wiring is hopefully self explanatory.
+
+### Weight Calculations
+
+Mass:
+Volume: 
+
