@@ -11,6 +11,7 @@ README.md:
   - [The Assembly](#the-assembly)
   - [Difficulties](#difficulties)
   - [CAD Images](#the-images)
+- [Launching](#launching)
 
 Other Pages:
 
@@ -154,3 +155,18 @@ Volume: 16.951 ft^3
 https://rechneronline.de/g-acceleration/uplift.php 
 
 Volume of Helium Needed: 6.70979 ft^3
+
+## Launching
+
+### Procedure
+
+1. Ensure that battery is fully charged, and wiring is un-damaged.
+2. Inspect frame and balloon bladder for integrity.
+3. For first launch, vacuum/drain air from balloon bladder, and place inside of frame.
+4. Fill balloon bladder with helium, taking care to prevent helium loss.
+5. Tie thin string to frame to keep control of zeppelin.
+6. Turn on electrical components.
+7. Launch! Release zeppelin into air.
+8. After flight is complete, reel Zeppelin back in.
+9. Turn off electrical components.
+10. Bring everything inside, collect data, and safely store Zeppelin.
