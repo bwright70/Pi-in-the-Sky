@@ -12,6 +12,7 @@ README.md:
   - [Difficulties](#difficulties)
   - [CAD Images](#the-images)
 - [Launching](#launching)
+  - [Procedure](#procedure)
 
 Other Pages:
 
@@ -152,7 +153,7 @@ This wiring is hopefully self explanatory.
 Mass: ~200g
 Volume: 16.951 ft^3
 
-https://rechneronline.de/g-acceleration/uplift.php 
+[Uplift Calculator](https://rechneronline.de/g-acceleration/uplift.php)
 
 Volume of Helium Needed: 6.70979 ft^3
 
