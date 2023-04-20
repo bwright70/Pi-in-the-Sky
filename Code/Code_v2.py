@@ -19,7 +19,7 @@ sensor = adafruit_mpl3115a2.MPL3115A2(i2c, address=0x60)  # Initialization of Al
 mpu = adafruit_mpu6050.MPU6050(i2c, address=0x68)  # Initialization of MPU Accelerometer
 
 led = digitalio.DigitalInOut(board.LED)
-led.switch_to_output()  # Initiliazation of on-board LED
+led.switch_to_output()  # Initialization of on-board LED
 
 MOTOR_1 = board.GP11
 MOTOR_2 = board.GP21
