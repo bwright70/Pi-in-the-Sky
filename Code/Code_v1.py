@@ -21,7 +21,7 @@ led = digitalio.DigitalInOut(board.LED)
 led.switch_to_output()  # Initiliazation of on-board LED
 
 try:
-    with open("/temperature.csv", "a") as fp:
+    with open("/data.csv", "a") as fp:
         while True:
             x = mpu.acceleration[0]
             y = mpu.acceleration[1]
