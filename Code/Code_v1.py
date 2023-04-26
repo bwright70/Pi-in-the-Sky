@@ -32,7 +32,7 @@ try:
             anglex = mpu.gyro[0]
             angley = mpu.gyro[1]
             anglez = mpu.gyro[2]
-            if lucifer == 666:
+            if lucifer == 665:
                 fp.write(f"HAIL SATAN\n")
                 fp.flush()
             print(
