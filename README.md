@@ -118,13 +118,13 @@ We had two options with the material that we could use for the bladder, and we h
 
 ### Trials
 
-In the end we choose polyethylene. The ability to heat seal with just a hair straightener made it a much better option espically since the addition of a contact adhesive necessary to seal mylar would make it's weight advantage void.
+In the end we choose polyethylene. The ability to heat seal with just a hair straightener made it a much better option especially since the addition of a contact adhesive necessary to seal mylar would make it's weight advantage void.
 
 We went through many tests of the sealing method and determined that, while heating seal does weaken the trash bag around the seal leading to micro tears, as long as too much pressure isn't put on the seams they would hold air, and hopefully helium, just fine.
 
-The final design ended up being two trash bags sealed together by their openings and cut open and resealed at the ends and resealed in order to maximize volume. A schrader valve was implemented to ensure we don't have any loss of helium or gas leakage in general. We used a bike pump head sealed around a shop-vac to vacuum the air out of the bag. We used a hair straightener to heat seal the seams.
+The final design ended up being two trash bags sealed together by their openings and cut open and resealed at the ends and resealed in order to maximize volume. A Schrader valve was implemented to ensure we don't have any loss of helium or gas leakage in general. We used a bike pump head sealed around a shop-vac to vacuum the air out of the bag. We used a hair straightener to heat seal the seams.
 
-![Bacuum](/Images/BlowingGif.gif)
+![Vacuum](/Images/BlowingGif.gif)
 
 ## Code
 
@@ -136,7 +136,7 @@ Code diagram for design with propellers (potential final design):
 
 ![CodeBlockDiagram2](/Images/CodeBlockMovementControl.png)
 
-If you looked at the code file and comments this would likely all become apparent, but in spite of brevity I am going to explain how the code works in its entirety. There is a [boot.py](<(/Code/example_cpue_temp/boot.py)>) file which checks whether pin GP0 is connected to the ground pin, if it is, then the pico will be in "write" mode (it will be writing data to the specified file on storage), otherwise it will be in "read" mode, allowing you to read any of the data on the pico through a connected computer. After that the pico will run the code.py file (currently named [Code_v1.py](https://github.com/bwright70/Pi-in-the-Sky/blob/main/Code/Code_v1.py) in our repo) which collects data and writes it to the storage if in write mode, and just gets sort of mad if in read mode. It begins by pulling all the values from the altimeter and accelerometer, then it writes them in seperate columns in an internal storage file, currently formatted as a CSV file.
+If you looked at the code file and comments this would likely all become apparent, but in spite of brevity I am going to explain how the code works in its entirety. There is a [boot.py](<(/Code/example_cpue_temp/boot.py)>) file which checks whether pin GP0 is connected to the ground pin, if it is, then the Pico will be in "write" mode (it will be writing data to the specified file on storage), otherwise it will be in "read" mode, allowing you to read any of the data on the Pico through a connected computer. After that the Pico will run the code.py file (currently named [Code_v1.py](https://github.com/bwright70/Pi-in-the-Sky/blob/main/Code/Code_v1.py) in our repo) which collects data and writes it to the storage if in write mode, and just gets sort of mad if in read mode. It begins by pulling all the values from the altimeter and accelerometer, then it writes them in separate columns in an internal storage file, currently formatted as a CSV file.
 
 [Current code file](https://github.com/bwright70/Pi-in-the-Sky/blob/main/Code/Code_v1.py)
 
@@ -173,3 +173,9 @@ Volume of Helium Needed: 6.70979 ft^3
 8. After flight is complete, reel Zeppelin back in.
 9. Turn off electrical components.
 10. Bring everything inside, collect data, and safely store Zeppelin.
+
+## ZeppelinData
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1GT4kJvuIbKPW-1cKGmG5HNrQzf5eKecy4qNWjI7XuRo/)
+
+The data collected is only the first 5 columns: time; x acceleration; y acceleration; z acceleration; altitude. Everything else is calculated using formulas. Turns out, they follow a lot of the same logic that Python does, just formatted slightly differently.
