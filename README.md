@@ -70,7 +70,7 @@ Up-close of connector for balsa-wood spars:
 
 Full 6-Section Assembly:
 
-![6-Section Assembly](/Images/Assembly.png)
+![6-Section Assembly](/Images/6-Section-Assembly.png)
 
 Up-close of Pi Bird and Pi Plate for Pi and other wiring components:
 
@@ -124,7 +124,7 @@ We went through many tests of the sealing method and determined that, while heat
 
 The final design ended up being two trash bags sealed together by their openings and cut open and resealed at the ends and resealed in order to maximize volume. A Schrader valve was implemented to ensure we don't have any loss of helium or gas leakage in general. We used a bike pump head sealed around a shop-vac to vacuum the air out of the bag. We used a hair straightener to heat seal the seams.
 
-![Vacuum](/Images/BlowingGif.gif)
+![Vacuum](/Images/Blowing-Gif.gif)
 
 ## Code
 
