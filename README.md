@@ -25,18 +25,25 @@ Directories:
 
 ## YouTube Channel
 
+[Playlist](https://youtube.com/playlist?list=PLWQhE570pqHrV1-YCYoC0dOTs_imAvUtT)
+
 | #   | Date       | Video                                                               |
 | --- | ---------- | ------------------------------------------------------------------- |
-| 0   | 2023-01-18 | [CAD Catch-up](https://youtu.be/xfZlytLQ_GU)                        |
-| 1   | 2023-01-18 | [Code Catch-up](https://youtu.be/OjiJY7ihrKs)                       |
-| 2   | 2023-01-25 | [The Frame's Here!!](https://youtu.be/7JANqRXmuZ0)                  |
-| 3   | 2023-02-02 | [Ball🎈🎈n(s?)!!!!](https://youtu.be/61AMVDbxwmk)                   |
-| 4   | 2023-02-08 | [Buoyant Spice and Joey Trash](https://youtu.be/qYgovjCG950)        |
-| 5   | 2023-02-15 | [Issues, but No Tissues](https://youtu.be/tmu2Px-Pnoc)              |
-| 6   | 2023-02-22 | [Money, Money, Money (Must Be Funny)](https://youtu.be/B1QbSnAPkFs) |
-| 7   | 2023-03-01 | [Orange You Glad to Hear?](https://youtu.be/YR41meGTwW4)            |
-|     | 2023-03-08 | No Episode :(                                                       |
-| 8   | 2023-03-15 | [The Dark Brandon Rises](https://youtu.be/SJHRT1t6aVk)              |
+| 00  | 2023-01-18 | [CAD Catch-up](https://youtu.be/xfZlytLQ_GU)                        |
+| 01  | 2023-01-18 | [Code Catch-up](https://youtu.be/OjiJY7ihrKs)                       |
+| 02  | 2023-01-25 | [The Frame's Here!!](https://youtu.be/7JANqRXmuZ0)                  |
+| 03  | 2023-02-02 | [Ball🎈🎈n(s?)!!!!](https://youtu.be/61AMVDbxwmk)                   |
+| 04  | 2023-02-08 | [Buoyant Spice and Joey Trash](https://youtu.be/qYgovjCG950)        |
+| 05  | 2023-02-15 | [Issues, but No Tissues](https://youtu.be/tmu2Px-Pnoc)              |
+| 06  | 2023-02-22 | [Money, Money, Money (Must Be Funny)](https://youtu.be/B1QbSnAPkFs) |
+| 07  | 2023-03-01 | [Orange You Glad to Hear?](https://youtu.be/YR41meGTwW4)            |
+| 08  | 2023-03-15 | [The Dark Brandon Rises](https://youtu.be/SJHRT1t6aVk)              |
+| 09  | 2023-04-20 | [Launch Day pt. 1](https://youtu.be/pdwIKABBMOQ)                    |
+| 10  | 2023-04-20 | [Launch Day pt. 2](https://youtu.be/yypadVz36hE)                    |
+| 11  | 2023-04-20 | [Launch Day pt. 3](https://youtu.be/-EpAKi5e_Ho)                    |
+| 12  | 2023-04-20 | [Launch Day pt. 4](https://youtu.be/x9Q9qHats8o)                    |
+| 13  | 2023-04-20 | [Launch Day pt. 5](https://youtu.be/inCLmaofwKg)                    |
+| 14  | 2023-04-20 | [Launch Day pt. 6](https://youtu.be/nHRp-FZ1iMQ)                    |
 
 ## CAD
 
@@ -70,7 +77,7 @@ Up-close of connector for balsa-wood spars:
 
 Full 6-Section Assembly:
 
-![6-Section Assembly](/Images/6-Section-Assembly.png)
+![Full Picture of 6-Section Assembly](/Images/6-Section-Assembly.png)
 
 Up-close of Pi Bird and Pi Plate for Pi and other wiring components:
 
@@ -138,15 +145,16 @@ Code diagram for design with propellers (potential final design):
 
 If you looked at the code file and comments this would likely all become apparent, but in spite of brevity I am going to explain how the code works in its entirety. There is a [boot.py](<(/Code/example_cpue_temp/boot.py)>) file which checks whether pin GP0 is connected to the ground pin, if it is, then the Pico will be in "write" mode (it will be writing data to the specified file on storage), otherwise it will be in "read" mode, allowing you to read any of the data on the Pico through a connected computer. After that the Pico will run the code.py file (currently named [Code_v1.py](https://github.com/bwright70/Pi-in-the-Sky/blob/main/Code/Code_v1.py) in our repo) which collects data and writes it to the storage if in write mode, and just gets sort of mad if in read mode. It begins by pulling all the values from the altimeter and accelerometer, then it writes them in separate columns in an internal storage file, currently formatted as a CSV file.
 
-[Current code file](https://github.com/bwright70/Pi-in-the-Sky/blob/main/Code/Code_v1.py)
+[Code v1](/Code/Code_v1.py)
+[Code v2](/Code/Code_v2.py)
 
-The code for the second version of this project is essentially the same but includes sort of pseudo-code to use propeller motors based on hypothetical inputs. Thanks to Paul Schakel and Sam Funk for the motor code in this version ([Here's their repo](https://github.com/sfunk02/drone)). [Version 2](/Code/Code_v2.py)
+The code for the second version of this project is essentially the same but includes sort of pseudo-code to use propeller motors based on hypothetical inputs. Thanks to Paul Schakel and Sam Funk for the motor code in this version ([Here's their repo](https://github.com/sfunk02/drone)).
 
 ### Wiring
 
 Wiring diagram:
 
-![Wiring](/Images/WiringDiagram.png)
+![Wiring diagram drawn in MS Paint](/Images/WiringDiagram.png)
 
 This wiring is hopefully self explanatory.
 
