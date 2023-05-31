@@ -25,7 +25,7 @@ Directories:
 
 ## YouTube Channel
 
-[Playlist](https://youtube.com/playlist?list=PLWQhE570pqHrV1-YCYoC0dOTs_imAvUtT)
+Note: there is a [Playlist](https://youtube.com/playlist?list=PLWQhE570pqHrV1-YCYoC0dOTs_imAvUtT) with all of these videos.
 
 | #   | Date       | Video                                                               |
 | --- | ---------- | ------------------------------------------------------------------- |
