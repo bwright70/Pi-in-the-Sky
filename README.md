@@ -187,3 +187,15 @@ Volume of Helium Needed: 6.70979 ft^3
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1GT4kJvuIbKPW-1cKGmG5HNrQzf5eKecy4qNWjI7XuRo/)
 
 The data collected is only the first 5 columns: time; x acceleration; y acceleration; z acceleration; altitude. Everything else is calculated using formulas. Turns out, they follow a lot of the same logic that Python does, just formatted slightly differently.
+
+![Graph of Raw X, Y, and Z Acceleration Data](/Images/Raw-XYZ-Acceleration.png)
+
+![Adjusted Graph of Acceleration Data](/Images/Adjusted-XYZ-Acceleration.png)
+
+![Adjusted Graph of Altitude Data](/Images/Adjusted-Altitude.png)
+
+![Adjusted Graph of Rolling Average Altitude](/Images/Rolling-Average-Adjusted-Altitude.png)
+
+![Graph of Pitch, Roll, and Yaw Data](/Images/Pitch-Roll-Yaw.png)
+
+The data show that we really need to calibrate the sensors. Also, after extensive research, it turns out that the accelerometer is mostly picking up gravity, and gravity is very hard to account for. Calibrating sensors is easy, it just requires letting the data sit for a while and then taking the average of the data. We take the opposite of the average, and add that to our sensor reading. This is because the sensor is reading the opposite of what we want, so we need to add the opposite of the average to get the correct reading. This is called "zeroing" the sensor. We zeroed the accelerometer, and the data looks much better in some test runs.
