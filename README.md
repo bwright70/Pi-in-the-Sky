@@ -199,3 +199,24 @@ The data collected is only the first 5 columns: time; x acceleration; y accelera
 ![Graph of Pitch, Roll, and Yaw Data](/Images/Pitch-Roll-Yaw.png)
 
 The data show that we really need to calibrate the sensors. Also, after extensive research, it turns out that the accelerometer is mostly picking up gravity, and gravity is very hard to account for. Calibrating sensors is easy, it just requires letting the data sit for a while and then taking the average of the data. We take the opposite of the average, and add that to our sensor reading. This is because the sensor is reading the opposite of what we want, so we need to add the opposite of the average to get the correct reading. This is called "zeroing" the sensor. We zeroed the accelerometer, and the data looks much better in some test runs.
+
+```python
+cal = 0
+
+if cal == 1:
+    x_cal = -0.2821868473
+    y_cal = +0.1411482595
+    z_cal = +0.9928467939
+    roll_cal = +0.04028768855
+    pitch_cal = +0.02144514046
+    yaw_cal = -0.03221143511
+elif cal == 0:
+    x_cal = 0
+    y_cal = 0
+    z_cal = 0
+    roll_cal = 0
+    pitch_cal = 0
+    yaw_cal = 0
+```
+
+Above is a sample of a switchable calibration function. If you don't want the calibration, or want to collect data to then use for calibration, you set `cal = 0`. If you want to use the calibration data you found, you set `cal = 1`.
